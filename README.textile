@@ -1,0 +1,3 @@
+This is a Twitter scraper that inputs a SCREENNAME and outputs a database of that twitter account's follower's usernames, id, location, profile image url and bio.
+
+Feel free to fork!
